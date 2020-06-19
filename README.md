@@ -1,5 +1,5 @@
 # CPUScheduling
-This program is a CPU Scheduling Algorithm.
+This program is a CPU Scheduling Algorithm made in Netbeans, using java.
 When you run it, it will create 8 bands with a burst size of 200m and 4 with a burst size of 10m.
 Once the bands are created, a random number of tasks with a random size will be created that each band has to process.
 Each band will run through their tasks independently of each other with the help of multithreading.
